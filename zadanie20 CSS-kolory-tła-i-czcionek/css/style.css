@@ -1,0 +1,43 @@
+body {
+  background-color: greenyellow;
+}
+
+#titleone {
+  background-color: black;
+  color: yellow;
+}
+
+#titletwo {
+  background-color: grey;
+  color: green;
+}
+
+#firstpara {
+  background-color: green;
+  color: violet;
+}
+
+#secondpara {
+  background-color: blueviolet;
+  color: rgb(253, 1, 1);
+}
+#one {
+  background-color: gold;
+  color: magenta;
+}
+#two {
+  background-color: dimgrey;
+  color: deeppink;
+}
+#three {
+  background-color: aquamarine;
+  color: burlywood;
+}
+#four {
+  background-color: chartreuse;
+  color: tomato;
+}
+#five {
+  background-color: mediumorchid;
+  color: bisque;
+}
