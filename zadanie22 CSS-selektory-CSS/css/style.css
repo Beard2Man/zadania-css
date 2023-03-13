@@ -1,14 +1,17 @@
-.h3 {
+p {
   background-color: yellow;
-  color: blue;
+  color: red;
 }
 
-#one {
-  background-color: peachpuff;
-  color: green;
+h1 {
+  background-color: green;
 }
 
-#two {
-  background-color: aqua;
-  color: blue;
+h3 {
+  background-color: grey;
+  color: white;
+}
+
+h1 + h3 {
+  color: pink;
 }
